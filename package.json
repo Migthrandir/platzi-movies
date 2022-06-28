@@ -1,0 +1,19 @@
+{
+  "name": "platzi-movies",
+  "version": "1.0.0",
+  "description": "Proyecto de los cursos de API REST de Platzi.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Migthrandir/platzi-movies.git"
+  },
+  "author": "@migthrandir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Migthrandir/platzi-movies/issues"
+  },
+  "homepage": "https://github.com/Migthrandir/platzi-movies#readme"
+}
